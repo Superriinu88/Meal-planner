@@ -1,0 +1,17 @@
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\DAL.Contracts.deps.json
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\DAL.Contracts.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\DAL.Contracts.pdb
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\Domain.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\Domain.pdb
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.csproj.AssemblyReference.cache
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.AssemblyInfoInputs.cache
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.AssemblyInfo.cs
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.csproj.CopyComplete
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\refint\DAL.Contracts.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\DAL.Contracts.pdb
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\obj\Debug\net7.0\ref\DAL.Contracts.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\Public.DTO.dll
+C:\Users\Hele-Riin\icd0021-22-23-s\PracticeProjects\MealPlanner\DAL.Contracts\bin\Debug\net7.0\Public.DTO.pdb
